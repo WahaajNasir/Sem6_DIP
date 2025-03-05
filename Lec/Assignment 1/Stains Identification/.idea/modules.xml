@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Stains Identification.iml" filepath="$PROJECT_DIR$/.idea/Stains Identification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Stains with Nuclei/.idea/Stains with Nuclei.iml" filepath="$PROJECT_DIR$/../Stains with Nuclei/.idea/Stains with Nuclei.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Stains_Check_V3/.idea/Stains_Check_V3.iml" filepath="$PROJECT_DIR$/../Stains_Check_V3/.idea/Stains_Check_V3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Stains_v2/.idea/Stains_v2.iml" filepath="$PROJECT_DIR$/../Stains_v2/.idea/Stains_v2.iml" />
+    </modules>
+  </component>
+</project>

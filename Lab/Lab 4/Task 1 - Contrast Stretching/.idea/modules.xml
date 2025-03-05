@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Hometask - Enhancement/.idea/Hometask - Enhancement.iml" filepath="$PROJECT_DIR$/../Hometask - Enhancement/.idea/Hometask - Enhancement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Task 1 - Contrast Stretching.iml" filepath="$PROJECT_DIR$/.idea/Task 1 - Contrast Stretching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Task 2 - Histogram Stuff/.idea/Task 2 - Histogram Stuff.iml" filepath="$PROJECT_DIR$/../Task 2 - Histogram Stuff/.idea/Task 2 - Histogram Stuff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Task 3 - Filter/.idea/Task 3 - Filter.iml" filepath="$PROJECT_DIR$/../Task 3 - Filter/.idea/Task 3 - Filter.iml" />
+    </modules>
+  </component>
+</project>

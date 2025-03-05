@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Hometask - Gausian Blur and Enhancement/.idea/Hometask - Gausian Blur and Enhancement.iml" filepath="$PROJECT_DIR$/../Hometask - Gausian Blur and Enhancement/.idea/Hometask - Gausian Blur and Enhancement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Task 1 - Min, Max, Median.iml" filepath="$PROJECT_DIR$/.idea/Task 1 - Min, Max, Median.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Task 2 - Sobel/.idea/Task 2 - Sobel.iml" filepath="$PROJECT_DIR$/../Task 2 - Sobel/.idea/Task 2 - Sobel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Task 3 - Laplacian/.idea/Task 3 - Laplacian.iml" filepath="$PROJECT_DIR$/../Task 3 - Laplacian/.idea/Task 3 - Laplacian.iml" />
+    </modules>
+  </component>
+</project>

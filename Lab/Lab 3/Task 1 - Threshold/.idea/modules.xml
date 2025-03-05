@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Task 1 - Threshold.iml" filepath="$PROJECT_DIR$/.idea/Task 1 - Threshold.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Task 2 - Means/.idea/Task 2 - Means.iml" filepath="$PROJECT_DIR$/../Task 2 - Means/.idea/Task 2 - Means.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Task 3 - Transforms/.idea/Task 3 - Transforms.iml" filepath="$PROJECT_DIR$/../Task 3 - Transforms/.idea/Task 3 - Transforms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Task 4 - Grayscaling/.idea/Task 4 - Grayscaling.iml" filepath="$PROJECT_DIR$/../Task 4 - Grayscaling/.idea/Task 4 - Grayscaling.iml" />
+    </modules>
+  </component>
+</project>
