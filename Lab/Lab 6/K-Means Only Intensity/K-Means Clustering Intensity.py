@@ -77,7 +77,7 @@ def k_clustering(image, k, tolerance):
 
 # Main
 image = cv.imread("D:/Uni/Semester 6/DIP/Self/Lec/Assignment 1/dataset_DIP_assignment/train/images/003.bmp", 0)
-segmented_image = k_clustering(image, 3, 5)
+segmented_image = k_clustering(image, 3, 0)
 
 cv.imshow("Original Image", image)
 cv.imshow("K Means Segmentation", segmented_image)

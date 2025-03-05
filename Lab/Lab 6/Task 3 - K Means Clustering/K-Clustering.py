@@ -8,7 +8,7 @@ def initial_centroids(image, k):
 
     for i in range(rows):
         for j in range(cols):
-            all_indices.append((i, j, image[i, j]))  # Include intensity
+            all_indices.append((i, j, image[i, j]))
 
     all_indices = np.array(all_indices, dtype=np.float64)
     init_centroids = all_indices[np.random.choice(len(all_indices), k, replace=False)]
@@ -24,7 +24,7 @@ def assign_cluster(image, centroids):
             min_dist = float('inf')
             close_cluster = -1
 
-            for index, (cx, cy, cint) in enumerate(centroids):  # Include intensity
+            for index, (cx, cy, cint) in enumerate(centroids):
                 distance = math.sqrt((cx - i) ** 2 + (cy - j) ** 2 + (cint - image[i, j]) ** 2)
 
                 if distance < min_dist:
@@ -45,10 +45,10 @@ def update_centroids(image, labels, k):
         for i in range(rows):
             for j in range(cols):
                 if labels[i, j] == cluster:
-                    cluster_points.append((i, j, image[i, j]))  # Include intensity
+                    cluster_points.append((i, j, image[i, j]))
 
         if len(cluster_points) == 0:
-            new_centroids.append(new_centroids[-1])  # Keep previous centroid
+            new_centroids.append(new_centroids[-1])
         else:
             cluster_points = np.array(cluster_points, dtype=np.float64)
             new_centroid = np.mean(cluster_points, axis=0)
@@ -69,7 +69,7 @@ def k_clustering(image, k, tolerance):
         for i in range(len(centroids)):
             distance = math.sqrt((centroids[i][0] - new_centroids[i][0]) ** 2 +
                                  (centroids[i][1] - new_centroids[i][1]) ** 2 +
-                                 (centroids[i][2] - new_centroids[i][2]) ** 2)  # Include intensity
+                                 (centroids[i][2] - new_centroids[i][2]) ** 2)
 
             if distance > tolerance:
                 converge = False
