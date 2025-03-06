@@ -4,6 +4,10 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.13" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="K-Means Only Intensity" />
+    <orderEntry type="module" module-name="K-Means Spatial+Intensity" />
+    <orderEntry type="module" module-name="Task 1 - Global Thresholding" />
+    <orderEntry type="module" module-name="Task 2 - Local Thresholding" />
+    <orderEntry type="module" module-name="Task 2 - Local Threshold using Whole WIndow" />
+    <orderEntry type="module" module-name="Task 2 - Overlapping" />
   </component>
 </module>

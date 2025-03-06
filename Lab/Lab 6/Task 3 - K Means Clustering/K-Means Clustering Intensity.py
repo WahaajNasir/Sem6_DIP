@@ -38,7 +38,7 @@ def update_centroids(image, labels, k):
         cluster_points = image[labels == cluster]
 
         if len(cluster_points) == 0:
-            new_centroids.append(new_centroids[-1])
+            new_centroids.append(0)
         else:
             new_centroid = np.mean(cluster_points)
             new_centroids.append(new_centroid)

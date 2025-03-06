@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../K-Means Only Intensity/.idea/K-Means Only Intensity.iml" filepath="$PROJECT_DIR$/../K-Means Only Intensity/.idea/K-Means Only Intensity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../K-Means Spatial+Intensity/.idea/K-Means Spatial+Intensity.iml" filepath="$PROJECT_DIR$/../K-Means Spatial+Intensity/.idea/K-Means Spatial+Intensity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Task 1 - Global Thresholding/.idea/Task 1 - Global Thresholding.iml" filepath="$PROJECT_DIR$/../Task 1 - Global Thresholding/.idea/Task 1 - Global Thresholding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Task 2 - Local Threshold using Whole WIndow/.idea/Task 2 - Local Threshold using Whole WIndow.iml" filepath="$PROJECT_DIR$/../Task 2 - Local Threshold using Whole WIndow/.idea/Task 2 - Local Threshold using Whole WIndow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Task 2 - Local Thresholding/.idea/Task 2 - Local Thresholding.iml" filepath="$PROJECT_DIR$/../Task 2 - Local Thresholding/.idea/Task 2 - Local Thresholding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Task 2 - Overlapping/.idea/Task 2 - Overlapping.iml" filepath="$PROJECT_DIR$/../Task 2 - Overlapping/.idea/Task 2 - Overlapping.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Task 3 - K Means Clustering.iml" filepath="$PROJECT_DIR$/.idea/Task 3 - K Means Clustering.iml" />
     </modules>
   </component>
