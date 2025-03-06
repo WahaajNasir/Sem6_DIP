@@ -25,7 +25,7 @@ def assign_cluster(image, centroids):
             close_cluster = -1
 
             for index, (cx, cy, cint) in enumerate(centroids):
-                distance = math.sqrt((cx - i) ** 2 + (cy - j) ** 2 + (cint - image[i, j]) ** 2)
+                distance = math.sqrt((cx - i) ** 2 + (cy - j) ** 2 + (cint - image[i][j]) ** 2)
 
                 if distance < min_dist:
                     min_dist = distance
