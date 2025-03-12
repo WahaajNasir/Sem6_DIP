@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Hometask - Canny Edge Detection/.idea/Hometask - Canny Edge Detection.iml" filepath="$PROJECT_DIR$/../Hometask - Canny Edge Detection/.idea/Hometask - Canny Edge Detection.iml" />
       <module fileurl="file://$PROJECT_DIR$/../K-Means Spatial+Intensity/.idea/K-Means Spatial+Intensity.iml" filepath="$PROJECT_DIR$/../K-Means Spatial+Intensity/.idea/K-Means Spatial+Intensity.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Task 1 - Global Thresholding/.idea/Task 1 - Global Thresholding.iml" filepath="$PROJECT_DIR$/../Task 1 - Global Thresholding/.idea/Task 1 - Global Thresholding.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Task 2 - Local Threshold using Whole WIndow/.idea/Task 2 - Local Threshold using Whole WIndow.iml" filepath="$PROJECT_DIR$/../Task 2 - Local Threshold using Whole WIndow/.idea/Task 2 - Local Threshold using Whole WIndow.iml" />

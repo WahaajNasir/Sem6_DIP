@@ -15,7 +15,7 @@ def lower_by_x(image, thresh):
     return new_image
 
 #Main
-image = cv.imread("D:/Uni/Semester 6/DIP/Self/Lab/Lab 6/Lab 6/lena.png", 0)
+image = cv.imread("D:/Uni/Semester 6/DIP/Self/Lab/Lab 6/Lab 6/Threshold_Image.png", 0)
 mean = np.mean(image)
 median = np.median(image)
 
