@@ -41,9 +41,10 @@ def apply_trans(image, trans_fun):
 
     return new_img
 
+
 # ---------------------------------
 # Main
-image = cv.imread("D:/Uni/Semester 6/DIP/Self/Lab/Lab 4/Lab 4/fig05.tif", 0)
+image = cv.imread(r"D:\Uni\Semester 6\DIP\Self\Lab\Lab Mid\Open Lab with Instructions\dataset\images\render0359.png", 0)
 cv.imshow('Original Image', image)
 cv.waitKey()
 histogram = histogram_creating(image)
@@ -78,5 +79,5 @@ plt.show()
 print(transformation_function)
 
 equilized_img = apply_trans(image, transformation_function)
-cv.imshow('Enhanced Image', equilized_img)
+cv.imshow("Equilized Image", equilized_img)
 cv.waitKey()

@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../Lab/Lab Mid/.idea/Lab Mid.iml" filepath="$PROJECT_DIR$/../../../Lab/Lab Mid/.idea/Lab Mid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Lab/Test Zone/Sobels/.idea/Sobels.iml" filepath="$PROJECT_DIR$/../../../Lab/Test Zone/Sobels/.idea/Sobels.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Stains Identification.iml" filepath="$PROJECT_DIR$/.idea/Stains Identification.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Stains with Nuclei/.idea/Stains with Nuclei.iml" filepath="$PROJECT_DIR$/../Stains with Nuclei/.idea/Stains with Nuclei.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Stains_Check_V3/.idea/Stains_Check_V3.iml" filepath="$PROJECT_DIR$/../Stains_Check_V3/.idea/Stains_Check_V3.iml" />

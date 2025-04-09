@@ -189,7 +189,7 @@ def canny_edge_detection(image):
 
 
 #Main
-image = cv.imread("D:/Uni/Semester 6/DIP/Self/Lab/Lab 5/Lab 5/Fig01.tif", 0)
+image = cv.imread("D:/Uni/Semester 6/DIP/Self/Lab/Lab 6/Lab 6/lena.png", 0)
 edge_image = canny_edge_detection(image)
 
 cv.imshow("Original", image)

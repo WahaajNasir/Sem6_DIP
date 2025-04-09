@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sobels.iml" filepath="$PROJECT_DIR$/.idea/Sobels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Lab 4/Task 1 - Contrast Stretching/.idea/Task 1 - Contrast Stretching.iml" filepath="$PROJECT_DIR$/../../Lab 4/Task 1 - Contrast Stretching/.idea/Task 1 - Contrast Stretching.iml" />
+    </modules>
+  </component>
+</project>

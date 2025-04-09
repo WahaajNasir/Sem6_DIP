@@ -23,7 +23,7 @@ def filter(image, filter_size):
     padded_img = padding(pad, image)
     for i in range(pad, rows-pad):
         for j in range(pad, cols-pad):
-            sub_img = image[i-pad:i+pad+1, j-pad:j+pad+1]
+            sub_img = padded_img[i-pad:i+pad+1, j-pad:j+pad+1]
             sub_img_val = np.sum(sub_img)/(filter_size * filter_size)
 
             padded_img[i][j] = sub_img_val

@@ -7,5 +7,7 @@
     <orderEntry type="module" module-name="Stains with Nuclei" />
     <orderEntry type="module" module-name="Stains_v2" />
     <orderEntry type="module" module-name="Stains_Check_V3" />
+    <orderEntry type="module" module-name="Lab Mid" />
+    <orderEntry type="module" module-name="Sobels" />
   </component>
 </module>
